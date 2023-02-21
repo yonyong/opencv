@@ -1,0 +1,6 @@
+1. 安装 opencv 安装版本 4.6.0
+https://opencv.org/releases/
+2. JAVA_HOME变量添加jar包 opencv-460.jar
+D:\java_develop\java\jdk1.8.0_181;D:\opencv\opencv\build\java\opencv-460.jar
+3. 将opencv_java460.dll放到JDKbin目录下
+D:\java_develop\java\jdk1.8.0_181\bin
